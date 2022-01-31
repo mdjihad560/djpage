@@ -183,6 +183,9 @@ p:last-child{
     margin: 0;
     margin-top: -9px;
     margin-bottom: 4px;
+    background-color: #A6A6A6;
+    width: 124px;
+    text-align: center;
 }
 .social-wrap {
     display: flex;
