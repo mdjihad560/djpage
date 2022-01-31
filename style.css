@@ -219,12 +219,18 @@ p:last-child{
 .wrap-four .social-item{
   margin-bottom: 5px;
 }
-
+.social-section {
+    margin-bottom: 70px;
+}
 /*footer*/
 footer.footer-section {
     text-align: center;
     background-color: #000;
     padding: 13px 0;
+    position: fixed;
+    z-index: 9;
+    bottom: 0;
+    width: 100%;
 }
 .copywright p{
   font-weight: 300;
