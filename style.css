@@ -182,10 +182,12 @@ p:last-child{
 .social-column h3 {
     margin: 0;
     margin-top: -9px;
-    margin-bottom: 4px;
     background-color: #A6A6A6;
-    width: 124px;
     text-align: center;
+    display: inline-block;
+    position: relative;
+    top: -7px;
+    padding: 0 6px;
 }
 .social-wrap {
     display: flex;
